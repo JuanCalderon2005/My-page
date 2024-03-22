@@ -1,0 +1,213 @@
+body {
+  background-color: rgba(32,33,36,255);
+  margin: 0;
+}
+.containerT {
+  margin-top: 100px;
+  align-items: center;
+}
+.caja1,
+.caja2,
+.caja3,
+.caja4,
+.caja5{
+  border: 2px solid rgb(52, 41, 41, 0);
+  margin: 10px;
+  border-radius: 15px;
+  height: 300px;
+  width: 450px;
+  background-color: rgba(94,105,137,255);
+}
+
+.caja6,
+.caja7,
+.caja8,
+.caja9 {
+  border: 2px solid rgb(52, 41, 41, 0);
+  margin: 3px;
+  border-radius: 15px;
+  height: 300px;
+  width: 450px;
+  background-color: rgba(94,105,137,255);
+}
+.secS {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.secI {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.circulo1,
+.circulo2,
+.circulo3,
+.circulo4,
+.circulo5 {
+  border: 2px solid rgb(0, 0, 0, 0);
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 70px;
+}
+.circulo6,
+.circulo7,
+.circulo9{
+  border: 2px solid rgb(72, 72, 72, 0);
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 70px;
+}
+h1 {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 55px;
+  color: azure;
+}
+.letra {
+  position: absolute;
+  margin-left: 58px;
+  margin-top: 8px;
+}
+.circulo1 {
+  background-color: rgb(91, 168, 91);
+}
+.circulo2 {
+  background-color: #eb4304;
+}
+.circulo3 {
+  background-color: #5dd64c;
+}
+.circulo4 {
+  background-color: #f26511;
+}
+.circulo5 {
+  background-color: #649ac6;
+}
+.circulo6 {
+  background-color: #94b1dd;
+}
+.circulo7 {
+  background-color: #017688;
+}
+.circulo8 {
+  background-color: #e7c255;
+}
+.circulo9 {
+  background-color: #a06368;
+}
+.circuloN {
+  background-color: #f15d00;
+}
+footer {
+  margin-top: 120px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.mic{
+  height: 30px;
+  width: 27px;
+  border: 2px solid rgb(255, 255, 255,0);
+  position: absolute;
+  margin-left: 310px;
+  margin-top: 15px;
+  border-radius: 50%;
+}
+.mic1{
+  height: 30px;
+  width: 27px;
+  border: 3px solid rgb(255, 255, 255,0);
+  position: absolute;
+  margin-left: 390px;
+  margin-top: 15px;
+  border-radius: 50%;
+}
+.circulo8{
+  border: 2px solid rgb(72, 72, 72, 0);
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+.circuloN{
+  border: 2px solid rgb(72, 72, 72,0);
+  border-radius: 50%;
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  margin-left: 210px;
+  margin-top: 50px;
+}
+.letra1 {
+  margin-left: 48px;
+}
+p{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  color: azure;
+}
+.nombre1{
+  position: absolute;
+  margin-left: 15px;
+  margin-top: 245px;
+}
+.nombre2{
+  position: absolute;
+  margin-left: 205px;
+  margin-top: 190px;
+}
+.container2{
+  position: absolute;
+  margin-left: 665px;
+}
+
+.img1{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 1px;
+}
+.img2{
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 10px;
+}
+.img3{
+  position: absolute;
+  margin-left: 170px;
+  margin-top: 9px;
+}
+.img4{
+  position: absolute;
+  margin-left: 225px;
+  margin-top: 13px;
+}
+.img5{
+  position: absolute;
+  margin-left: 285px;
+  margin-top: 10px;
+}
+.img6{
+  position: absolute;
+  margin-left: 345px;
+  margin-top: 10px;
+}
+.img7{
+  position: absolute;
+  margin-left: 405px;
+  margin-top: 10px;
+}
+.img8{
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 10px;
+}
